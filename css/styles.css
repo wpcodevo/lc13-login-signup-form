@@ -8,3 +8,11 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
+:root {
+  /* Colors */
+  --pink: #ff0066;
+  --lightpink: #ff80b3;
+  --blue: #0000ff;
+  --lightblue: #9999ff;
+}
