@@ -72,7 +72,7 @@ section .img-box {
 }
 
 section .img-box img {
-  object-fit: center;
+  object-fit: cover;
   position: absolute;
   top: 0;
   left: 0;
