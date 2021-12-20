@@ -105,6 +105,8 @@ section form {
   position: absolute;
   top: 55%;
   left: 50%;
+  width: 100%;
+  max-width: 300px;
   transform: translate(-50%, -50%);
   display: flex;
   flex-direction: column;
@@ -122,6 +124,7 @@ section form .form-control:first-child input {
   padding: 10px 0;
   margin-bottom: 10px;
   text-indent: 16px;
+  width: 100%;
   color: var(--color);
   outline: none;
 }
